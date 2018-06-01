@@ -489,7 +489,7 @@ position:relative;
 
 .card-picture-2 {
     
-        background-image: linear-gradient(to right bottom, #1c92d2, #f2fcfe), url(images/standard_2_s.JPG);
+        background-image: linear-gradient(to right bottom, #1c92d2, #f2fcfe), url(images/standard_2_s.jpg);
         background-size: cover;
         background-repeat: no-repeat;
 
