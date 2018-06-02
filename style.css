@@ -3,7 +3,7 @@
 body {
     
     background-color: #eee;
-
+    font-family: sans-serif;
 }
 
 
@@ -673,6 +673,35 @@ position:relative;
     font-weight:100;
 }
 
+
+/*ANIMATIONS*/
+
+.anileft {
+    
+    
+    animation-name: moveleft;
+    animation-duration: 3s;
+    display:block;
+   
+}
+
+
+@keyframes moveleft {
+    
+    0% {
+        
+        opacity:0;
+            transform:translateX(-150px);
+                
+    }
+    
+
+    100% {
+        
+        opacity:1;
+        transform:translate(0);
+    }
+}
 
 /*FOOTER*/
 
