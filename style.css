@@ -501,7 +501,7 @@ position:relative;
 
 .card-picture-3 {
     
-    background-image: linear-gradient(to right bottom, #FFB75E, #ED8F03), url(images/mixed-3.JPG);
+    background-image: linear-gradient(to right bottom, #FFB75E, #ED8F03), url(images/mixed-3.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     
