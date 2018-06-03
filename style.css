@@ -227,9 +227,8 @@ opacity:1;
 .grid-container {
   display: grid;
   width: 75vw;
-  height:60vw; 
   grid-template-columns: 25vw 25vw 25vw;
-  grid-template-rows: 20vw 15vw 15vw;
+  grid-template-rows: auto;
   grid-gap: 25px;
   grid-row-gap: 25px;
   background-color: #eee;
