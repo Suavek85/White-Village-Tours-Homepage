@@ -370,8 +370,8 @@ wrapper {
     position: relative;
     background-size: cover;
     background-repeat: no-repeat;
-    -webkit-clip-path: polygon(0 0, 100% 0, 96% 87%, 0 100%);
-    clip-path: polygon(0 0, 100% 0, 96% 87%, 0 100%);
+    -webkit-clip-path: polygon(0 0, 100% 0, 100% 87%, 0 100%);
+    clip-path: polygon(0 0, 100% 0, 100% 87%, 0 100%);
 }
 
 
