@@ -1,1 +1,5 @@
-project1 - work in progress, especially resposiveness which is not finished
+Project1:
+
+- my own idea, 
+- work in progress, especially resposiveness which is far from finished
+- HTML, CSS, CSS Grid
