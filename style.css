@@ -582,14 +582,14 @@ p {
 
 .card-picture-2 {
 
-    background-image: linear-gradient(to right bottom, #1c92d2, #f2fcfe), url(images/standard-2.JPG);
+    background-image: linear-gradient(to right bottom, #1c92d2, #f2fcfe), url(images/standard-2.jpg);
 
 }
 
 
 .card-picture-3 {
 
-    background-image: linear-gradient(to right bottom, #FFB75E, #ED8F03), url(images/mixed-3.JPG);
+    background-image: linear-gradient(to right bottom, #FFB75E, #ED8F03), url(images/mixed-3.jpg);
 
 }
 
