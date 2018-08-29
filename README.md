@@ -1,6 +1,5 @@
-Project1:
+White Villages Tours - Homepage:
 
 - my own idea, 
-- work in progress, especially resposiveness which is far from finished,
-- HTML, CSS, CSS Grid
-- https://suavek85.github.io/project1/projekt1.html
+- work in progress, some basic responsiveness, responsive menu
+- HTML, CSS, CSS Grid, FLexbox, some JS
